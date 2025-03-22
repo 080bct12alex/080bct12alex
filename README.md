@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **React-native**
 
-- 👨‍💻 All of my projects are available at [https://alexshrestha.vercel.app/#projects](https://alexshrestha.vercel.app/projects)
+- 👨‍💻 All of my projects are available at [https://alexshrestha.vercel.app/projects](https://alexshrestha.vercel.app/projects)
 
 - 📫 How to reach me **080bct012.alex@pcampus.edu.np**
 
