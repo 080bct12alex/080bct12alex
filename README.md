@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Alex Shrestha</h1>
 <h3 align="center">A passionate Full stack developer from Nepal</h3>
 
-<p align="left"> <a href="https:/twitter.com/alexstha103" target="blank"><img src="https://img.shields.io/twitter/follow/alexstha103?logo=twitter&style=for-the-badge" alt="alexstha103" /></a> </p>
+<p align="left"> <a href="https://twitter.com/alexstha103" target="blank"><img src="https://img.shields.io/twitter/follow/alexstha103?logo=twitter&style=for-the-badge" alt="alexstha103" /></a> </p>
 
 - 🌱 I’m currently learning **React-native**
 
