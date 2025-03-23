@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://twitter.com/alexstha103" target="blank"><img src="https://img.shields.io/twitter/follow/alexstha103?logo=twitter&style=for-the-badge" alt="alexstha103" /></a> </p>
 
-- 👨‍💻 All of my projects are available at [Link](https://alexshrestha.vercel.app/#projects)
+- 👨‍💻 All of my projects are available at [Projects](https://alexshrestha.vercel.app/#projects)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
