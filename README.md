@@ -37,10 +37,8 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/>
   </a>
   
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
-    <img src="<img width="400" height="400" alt="image" src="https://github.com/user-attachments/assets/e2eff617-6c09-429b-ae12-6cc10a69a91f" />
-" alt="react" width="40" height="40"/>
-  </a> 
+<a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img width="28" height="28" alt="image" src="https://github.com/user-attachments/assets/12f7e086-6e31-4cc4-b071-a8222579180a" 
+alt="react" width="40" height="40"/> </a> 
   
   <a href="https://nodejs.org" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/>
