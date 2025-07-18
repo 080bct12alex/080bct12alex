@@ -34,7 +34,7 @@
   </a> 
   
   <a href="https://expressjs.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/>
+ <img width="28" height="28" alt="image" src="https://github.com/user-attachments/assets/cb818413-7c83-4ad7-8295-2ea8eaa015aa" alt="express" width="40" height="40"/>
   </a>
   
 <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img width="28" height="28" alt="image" src="https://github.com/user-attachments/assets/12f7e086-6e31-4cc4-b071-a8222579180a" 
@@ -45,7 +45,7 @@ alt="react" width="40" height="40"/> </a>
   </a>
 
   <a href="https://nextjs.org/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/>
+   <img width="32" height="32" alt="image" src="https://github.com/user-attachments/assets/993951be-4dd1-4284-8158-a44d29d60b08"  alt="nextjs" width="40" height="40"/>
   </a> 
   
   <a href="https://www.postgresql.org" target="_blank" rel="noreferrer">
