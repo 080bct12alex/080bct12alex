@@ -7,7 +7,7 @@
   </a>
 </p>
 
-- 👨‍💻 All of my projects are available at [alex-shrestha.com.np/#projects](https://www.alex-shrestha.com.np/#projects)
+- 👨‍💻  my projects are available at [projects](https://www.alex-shrestha.com.np/#projects)
 
 ---
 
