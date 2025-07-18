@@ -7,7 +7,7 @@
   </a>
 </p>
 
-- 👨‍💻  my projects are available at [projects](https://www.alex-shrestha.com.np/#projects)
+- 👨‍💻  my projects are available at [My Projects](https://www.alex-shrestha.com.np/#projects)
 
 ---
 
@@ -38,7 +38,8 @@
   </a>
   
   <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
+    <img src="<img width="400" height="400" alt="image" src="https://github.com/user-attachments/assets/e2eff617-6c09-429b-ae12-6cc10a69a91f" />
+" alt="react" width="40" height="40"/>
   </a> 
   
   <a href="https://nodejs.org" target="_blank" rel="noreferrer">
@@ -60,6 +61,6 @@
 
 ---
 
-<p align="center">
+<p align>
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=080bct12alex&show_icons=true&locale=en&layout=compact" alt="080bct12alex" />
 </p>
