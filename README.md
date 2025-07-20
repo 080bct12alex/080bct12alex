@@ -62,6 +62,11 @@
   <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/>
   </a>
+
+  <a href="https://www.convex.dev/" target="_blank" rel="noreferrer">
+  <img src="https://github.com/user-attachments/assets/685b5020-fcce-4bd6-88c5-04793f6b37b7" alt="convex" width="40" height="40" />
+</a>
+
 </p>
 
 ---
