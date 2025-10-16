@@ -25,7 +25,7 @@
   </a>
 
   <a href="https://www.facebook.com/alex.stha.3107" target="blank">
-    <img align="center" src="hhttps://github.com/rahuldkjain/github-profile-readme-generator/blob/master/src/images/icons/Social/facebook.svg" alt="alexstha310" height="30" width="40" />
+    <img align="center" src="https://github.com/rahuldkjain/github-profile-readme-generator/blob/master/src/images/icons/Social/facebook.svg" alt="alexstha310" height="30" width="40" />
   </a>
 </p>
 
