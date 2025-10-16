@@ -21,11 +21,11 @@
   </a>
 
   <a href="https://www.instagram.com/alex_stha310" target="blank">
-    <img align="center" src="https://s.yimg.com/fz/api/res/1.2/7wmcqjtgVFiMeMxLOlW3sw--~C/YXBwaWQ9c3JjaGRkO2ZpPWZpdDtoPTI0MDtxPTgwO3c9MjQw/https://s.yimg.com/zb/imgv1/e9d6381f-6a16-39d9-b6f9-1467838c022c/t_500x300" alt="alexstha310" height="30" width="40" />
+    <img align="center" src="https://github.com/rahuldkjain/github-profile-readme-generator/blob/master/src/images/icons/Social/instagram.svg" alt="alexstha310" height="30" width="40" />
   </a>
 
   <a href="https://www.facebook.com/alex.stha.3107" target="blank">
-    <img align="center" src="https://s.yimg.com/fz/api/res/1.2/bfhuQx02Fd0qgLXZbH1dww--~C/YXBwaWQ9c3JjaGRkO2ZpPWZpdDtoPTI0MDtxPTgwO3c9MjQw/https://s.yimg.com/zb/imgv1/ff6c2336-05c2-34bf-8d42-c8eb48fbacf1/t_500x300" alt="alexstha310" height="30" width="40" />
+    <img align="center" src="hhttps://github.com/rahuldkjain/github-profile-readme-generator/blob/master/src/images/icons/Social/facebook.svg" alt="alexstha310" height="30" width="40" />
   </a>
 </p>
 
