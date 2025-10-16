@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Alex Shrestha</h1>
-<h3 align="center"> AI  Software Engineer from Nepal</h3>
+<h3 align="center"> Software Engineer from Nepal</h3>
 
 <p align="center">
   <a href="https://twitter.com/alexstha103" target="blank">
