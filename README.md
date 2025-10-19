@@ -96,7 +96,7 @@
 
 <!-- GitHub Actions -->
 <a href="https://github.com/features/actions" target="_blank" rel="noreferrer">
-  <img src="https://miro.medium.com/v2/resize:fit:1260/0*Xhd9l-Sd1Yd-diwh.png" width="28" height="28" />
+  <img src="https://repository-images.githubusercontent.com/594831409/540d66b0-37c0-4bb3-ae90-eb39fcb6008c" width="28" height="28" />
 </a>
 
 
