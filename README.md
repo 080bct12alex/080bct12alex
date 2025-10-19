@@ -51,7 +51,7 @@
 
   
   <a href="https://expressjs.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" alt="Express" width="28" height="28" />
+    <img src="https://www.peanutsquare.com/wp-content/uploads/2024/04/Express.png" alt="Express" width="28" height="28" />
   </a>
 
 
