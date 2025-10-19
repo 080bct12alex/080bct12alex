@@ -81,7 +81,7 @@
 
   <!-- LangGraph -->
 <a href="https://langgraph.dev/" target="_blank" rel="noreferrer">
-  <img src="https://www.svgrepo.com/show/487573/langgraph.svg" alt="LangGraph" width="28" height="28" />
+  <img src="https://registry.npmmirror.com/@lobehub/icons-static-png/latest/files/dark/langgraph.png" alt="LangGraph" width="28" height="28" />
 </a>
 
 <!-- Git -->
@@ -96,7 +96,7 @@
 
 <!-- GitHub Actions -->
 <a href="https://github.com/features/actions" target="_blank" rel="noreferrer">
-  <img src="https://github.com/github/explore/raw/main/topics/actions/actions.png" alt="GitHub Actions" width="28" height="28" />
+  <img src="https://miro.medium.com/v2/resize:fit:1260/0*Xhd9l-Sd1Yd-diwh.png" width="28" height="28" />
 </a>
 
 
@@ -106,7 +106,7 @@
 
 <!-- AWS -->
 <a href="https://aws.amazon.com/" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original.svg" alt="AWS" width="28" height="28" />
+  <img src="https://kineticit.com.au/wp-content/uploads/2022/10/AWS_logo.png" alt="AWS" width="28" height="28" />
 </a>
 
 
