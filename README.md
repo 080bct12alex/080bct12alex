@@ -56,7 +56,7 @@
 
 
   <a href="https://fastapi.tiangolo.com/" target="_blank" rel="noreferrer">
-    <img src="https://fastapi.tiangolo.com/img/logo.png" alt="FastAPI" width="28" height="28" />
+    <img src="https://avatars.githubusercontent.com/u/156354296?s=200&v=4" alt="FastAPI" width="28" height="28" />
   </a>
 
   <a href="https://graphql.org/" target="_blank" rel="noreferrer">
