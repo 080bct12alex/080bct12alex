@@ -36,7 +36,7 @@
 
 
   <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
-    <img width="28" height="28" src="https://i.ytimg.com/vi/Ng2ZWCWNmoU/maxresdefault.jpg" alt="React" />
+    <img width="28" height="28" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/2300px-React-icon.svg.png" alt="React" />
   </a>
 
 
