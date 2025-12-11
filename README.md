@@ -58,21 +58,22 @@
   <a href="https://fastapi.tiangolo.com/" target="_blank" rel="noreferrer">
     <img src="https://avatars.githubusercontent.com/u/156354296?s=200&v=4" alt="FastAPI" width="28" height="28" />
   </a>
-
+ <!--
   <a href="https://graphql.org/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/graphql/graphql-plain.svg" alt="GraphQL" width="28" height="28" />
   </a>
-
+-->
 
   <!-- MongoDB -->
   <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="28" height="28" />
   </a>
 
-
+<!--
   <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="28" height="28" />
   </a>
+  -->
 
   <!-- Python -->
   <a href="https://www.python.org" target="_blank" rel="noreferrer">
@@ -99,16 +100,16 @@
   <img src="https://repository-images.githubusercontent.com/594831409/540d66b0-37c0-4bb3-ae90-eb39fcb6008c" width="28" height="28" />
 </a>
 
-
+<!--
 <a href="https://kubernetes.io/" target="_blank" rel="noreferrer">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-plain.svg" alt="Kubernetes" width="28" height="28" />
 </a>
-
-<!-- AWS -->
+-->
+<!-- AWS 
 <a href="https://aws.amazon.com/" target="_blank" rel="noreferrer">
   <img src="https://kineticit.com.au/wp-content/uploads/2022/10/AWS_logo.png" alt="AWS" width="28" height="28" />
 </a>
-
+-->
 
 
 </p>
