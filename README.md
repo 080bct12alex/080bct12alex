@@ -124,5 +124,8 @@
   <p align>
     <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=shresthaAlex&layout=compact&theme=midnight-purple&hide_border=true"/>
 </p>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" width="100%" />
+
   
 </div>
