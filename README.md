@@ -1,11 +1,7 @@
 <h1 align="center">Hi 👋, I'm Alex Shrestha</h1>
 <h3 align="center"> Software Engineer from Nepal</h3>
 
-<p align="center">
-  <a href="https://twitter.com/alexstha103" target="blank">
-    <img src="https://img.shields.io/twitter/follow/alexstha103?logo=twitter&style=for-the-badge" alt="alexstha103" />
-  </a>
-</p>
+
 
 - 👨‍💻  My projects are available at [My Projects](https://www.alex-shrestha.com.np/#projects)
 
