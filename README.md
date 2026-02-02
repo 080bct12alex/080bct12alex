@@ -121,7 +121,7 @@
 ---
 
 <p align>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=shresthaAlex&show_icons=true&locale=en&layout=compact" alt="080bct12alex" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=shresthaAlex&show_icons=true&locale=en&layout=compact" alt="shresthaAlex" />
 </p>
 <!--   <div style="display: flex;">
     <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=DaviRicardo&layout=compact&theme=midnight-purple&hide_border=true"/>
