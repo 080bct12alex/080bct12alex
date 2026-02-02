@@ -74,7 +74,7 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="28" height="28" />
   </a>
 
-  <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer">
+  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
     <img src="https://github.com/user-attachments/assets/b9a84a8a-6097-44c9-9cf3-42a3247f312a" width="28" height="28" />
   
   </a>
