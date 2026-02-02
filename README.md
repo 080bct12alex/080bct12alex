@@ -69,11 +69,15 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="28" height="28" />
   </a>
 
-<!--
+
   <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="28" height="28" />
   </a>
-  -->
+
+  <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer">
+    <img src="https://e7.pngegg.com/pngimages/1006/749/png-clipart-mysql-amazon-relational-database-service-bacula-microsoft-sql-server-sql-icon-text-logo.png" alt="MySQL" width="28" height="28" />
+  </a>
+
 
   <!-- Python -->
   <a href="https://www.python.org" target="_blank" rel="noreferrer">
@@ -117,5 +121,10 @@
 ---
 
 <p align>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=080bct12alex&show_icons=true&locale=en&layout=compact" alt="080bct12alex" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=shresthaAlex&show_icons=true&locale=en&layout=compact" alt="080bct12alex" />
 </p>
+<!--   <div style="display: flex;">
+    <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=DaviRicardo&layout=compact&theme=midnight-purple&hide_border=true"/>
+    -->
+  
+</div>
