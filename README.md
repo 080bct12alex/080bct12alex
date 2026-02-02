@@ -75,8 +75,7 @@
   </a>
 
   <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer">
-    <img src="<img width="512" height="512" alt="image" src="https://github.com/user-attachments/assets/677dcf3b-4156-4546-a49d-56ad0140c612" />
-" alt="MySQL" width="28" height="28" />
+    <img src="https://pngimg.com/d/mysql_PNG9.png" width="28" height="28" />
   </a>
 
 
