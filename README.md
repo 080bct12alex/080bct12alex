@@ -119,15 +119,18 @@ Hi there <img src="https://user-images.githubusercontent.com/74038190/214644152-
 
 ---
 
-<!-- <p align>
+<!-- 
+<p align>
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=shresthaAlex&show_icons=true&locale=en&layout=compact" alt="shresthaAlex" />
-</p> -->
+</p>
+-->
     
   <p align>
     <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=shresthaAlex&layout=compact&theme=midnight-purple&hide_border=true"/>
 </p>
 
+<!--
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" width="100%" />
-
+ -->
   
 </div>
