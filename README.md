@@ -1,4 +1,6 @@
-<h1 align="center">Hi 👋, I'm Alex Shrestha</h1>
+<h1 align="center">
+Hi there <img src="https://user-images.githubusercontent.com/74038190/214644152-52f47eb3-5e31-4f47-8758-05c9468d5596.gif" width="30">, I'm <a href="https://www.yushi.dev/" target="_blank" rel="noreferrer">Alex Shrestha</a>
+</h1>
 <h3 align="center"> Software Engineer from Nepal</h3>
 
 
